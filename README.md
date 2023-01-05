@@ -1,7 +1,7 @@
 ![Masterhead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 <h1 align="center">Hi 👋, I'm Meryem Kadam</h1>
 <h3 align="center">A passionate Software QA(tester) from Ontario, Canada</h3>
-<img src="kaynak"> <img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif”>
+<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merzi13&label=Profile%20views&color=0e75b6&style=flat" alt="merzi13" /> </p>
 
